@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=29&duration=3400&pause=500&color=573FFF&background=FFFFFF00&center=true&vCenter=true&width=500&height=100&lines=My+name+is+Renan+Mischiatti.;I'm+18+years+old.;I'm+from+Brazil.;I+study+web+development;Welcome+to+my+profile" alt="Typing SVG" /></a>
-</h1>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanMischiatti&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Eric Felipe github stats" /> 
