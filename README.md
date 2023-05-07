@@ -6,8 +6,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMischiatti&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=RenanMischiatti&color=7F3ACE&line=ffff&point=7F3ACE&title_color=7F3ACE&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
-
 ## Technologies: ⬇️
 
 <h3 align="left">Front end:</h3>
