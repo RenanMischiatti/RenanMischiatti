@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="34" viewBox="0 0 110 34" role="img" aria-labelledby="title">
+  <title id="title">Magento</title>
+  <metadata>Logo: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg</metadata>
+  <rect x=".5" y=".5" width="109" height="33" rx="7" fill="#161B22" stroke="#30363D"/>
+  <svg x="11" y="8" width="18" height="18" viewBox="0 0 128 128" fill="#F58A55"><path fill="#f26322" d="M119.82 31.97v64.01l-15.85 9.12V41.17l-39.62-22.9-39.64 22.9.1 63.96-15.82-9.15V32.02L64.45 0l55.37 31.97zM72.3 105.1l-7.9 4.6-7.95-4.55V41.17l-15.82 9.15.03 63.96L64.38 128l23.77-13.72V50.29L72.3 41.14v63.96z"/></svg>
+  <text x="38" y="17" dy=".35em" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Magento</text>
+</svg>

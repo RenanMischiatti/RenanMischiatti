@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="219" height="34" viewBox="0 0 219 34" role="img" aria-labelledby="title">
+  <title id="title">Processamento assíncrono</title>
+  <rect x=".5" y=".5" width="218" height="33" rx="7" fill="#161B22" stroke="#30363D"/>
+  <text x="20" y="18" dominant-baseline="middle" text-anchor="middle" font-size="17" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">⏳</text>
+  <text x="38" y="17" dy=".35em" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Processamento assíncrono</text>
+</svg>

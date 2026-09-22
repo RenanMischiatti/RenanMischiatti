@@ -10,17 +10,9 @@
 Especialidade em **PHP e Laravel**, mas também trabalho com front-end, IA, integrações e automações. Já passei por projetos de vários tamanhos, de APIs a ERPs e e-commerces. No fim das contas, gosto mesmo é de entender o problema e construir uma solução inteligente.
 
 <p align="left">
-  <a href="https://renanmischiatti.space">
-    <img src="https://renanmischiatti.space/assets/icon.jpg" width="28" height="28" alt="Renan Mischiatti portfolio icon" />
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/renan-mischiatti">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn icon" />
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/RenanMischiatti">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://renanmischiatti.space"><img src="assets/links/portfolio.svg" height="38" alt="Portfólio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/renan-mischiatti"><img src="assets/links/linkedin.svg" height="38" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/RenanMischiatti"><img src="assets/links/github.svg" height="38" alt="GitHub" /></a>
 </p>
 
 ---
@@ -40,35 +32,19 @@ Especialidade em **PHP e Laravel**, mas também trabalho com front-end, IA, inte
 
 Tenho dedicado parte dos meus estudos a **IA, LLMs, RAG e agentes**, testando essas ideias em projetos e aprendendo na prática.
 
-### Tecnologias e ferramentas
-
-<p align="left">
-  <a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42" height="42" alt="PHP" /></a>&nbsp;
-  <a href="https://laravel.com/" title="Laravel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" /></a>&nbsp;
-  <a href="https://symfony.com/" title="Symfony"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="42" height="42" alt="Symfony" /></a>&nbsp;
-  <a href="https://www.javascript.com/" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /></a>&nbsp;
-  <a href="https://vuejs.org/" title="Vue.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="42" height="42" alt="Vue.js" /></a>&nbsp;
-  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" /></a>&nbsp;
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" /></a>&nbsp;
-  <a href="https://redis.io/" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" /></a>&nbsp;
-  <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" /></a>&nbsp;
-  <a href="https://www.linux.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" /></a>&nbsp;
-  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" /></a>
-</p>
-
 <details>
   <summary><strong>🧰 Minha stack completa</strong> — clique para explorar</summary>
 
 | Área | Tecnologias e conhecimentos |
 | :--- | :--- |
-| ⚙️ **Backend** | `PHP` `Laravel` `Symfony` `Hyperf` `Swoole` `Python` |
-| 🎨 **Frontend** | `Vue.js` `JavaScript` `jQuery` `Bootstrap` `Tailwind CSS`<br>`AJAX` `HTML5` `CSS3` |
-| 🧩 **Arquitetura e engenharia** | `POO` `SOLID` `PSRs` `Clean Code` `Design Patterns` `DDD`<br><br>Arquitetura orientada a eventos · Processamento assíncrono · Escalabilidade · Alta disponibilidade · Performance · Refatoração · Modernização de sistemas legados |
-| 🔌 **APIs e integrações** | `REST` `GraphQL` `Webhooks`<br><br>Integrações entre sistemas · APIs de terceiros · Gateways de pagamento · Serviços fiscais · Logística · Automações |
-| 🗄️ **Dados e cache** | `MySQL` `PostgreSQL` `Redis`<br><br>Modelagem de dados · Stored procedures · Triggers · Otimização de consultas · Performance |
-| 🛍️ **E-commerce e CMS** | `Shopify` `Magento` `WooCommerce` `PrestaShop` `Saleor` `WordPress`<br><br>Desenvolvimento de plugins · Integrações customizadas |
-| ☁️ **Infraestrutura e DevOps** | `Docker` `Linux` `VPS` `AWS S3` `Git` `GitHub` `Bitbucket` `cPanel`<br><br>Git Flow · CI/CD · Ambientes de produção |
-| 🔍 **Qualidade e processos** | `Code Review` `Pull Requests` `Jira` `Kanban`<br><br>Debugging · Análise de performance · Observabilidade · Sustentação de aplicações |
-| 🤖 **IA e automação**<br><sub>Em prática e estudo</sub> | `Python` `LLMs` `RAG` `LangChain` `OpenAI API` `FFmpeg`<br><br>Embeddings · Bancos vetoriais · Agentes · Automação de processos · Integração de IA em aplicações |
+| ⚙️ **Backend** | <a href="https://www.php.net/"><img src="assets/stack/php.svg" height="28" alt="PHP" /></a> <a href="https://laravel.com/"><img src="assets/stack/laravel.svg" height="28" alt="Laravel" /></a> <a href="https://symfony.com/"><img src="assets/stack/symfony.svg" height="28" alt="Symfony" /></a> <a href="https://hyperf.io/"><img src="assets/stack/hyperf.svg" height="28" alt="Hyperf" /></a> <a href="https://github.com/swoole/swoole-src"><img src="assets/stack/swoole.svg" height="28" alt="Swoole" /></a><br><a href="https://www.python.org/"><img src="assets/stack/python.svg" height="28" alt="Python" /></a> |
+| 🎨 **Frontend** | <a href="https://vuejs.org/"><img src="assets/stack/vuedotjs.svg" height="28" alt="Vue.js" /></a> <a href="https://www.javascript.com/"><img src="assets/stack/javascript.svg" height="28" alt="JavaScript" /></a> <a href="https://jquery.com/"><img src="assets/stack/jquery.svg" height="28" alt="jQuery" /></a> <a href="https://getbootstrap.com/"><img src="assets/stack/bootstrap.svg" height="28" alt="Bootstrap" /></a> <a href="https://tailwindcss.com/"><img src="assets/stack/tailwindcss.svg" height="28" alt="Tailwind CSS" /></a><br><a href="https://html.spec.whatwg.org/"><img src="assets/stack/html5.svg" height="28" alt="HTML5" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="assets/stack/css3.svg" height="28" alt="CSS3" /></a><br><br>AJAX |
+| 🧩 **Arquitetura e engenharia** | `POO` `SOLID` `PSRs` `Clean Code` `Design Patterns` `DDD`<br><br>Arquitetura orientada a eventos · Processamento assíncrono · Escalabilidade · Alta disponibilidade · Performance · Refatoração · Modernização de legados |
+| 🔌 **APIs e integrações** | <a href="https://graphql.org/"><img src="assets/stack/graphql.svg" height="28" alt="GraphQL" /></a><br><br>REST · Webhooks · Integrações entre sistemas · APIs de terceiros · Gateways de pagamento · Serviços fiscais · Logística · Automações |
+| 🗄️ **Dados e cache** | <a href="https://www.mysql.com/"><img src="assets/stack/mysql.svg" height="28" alt="MySQL" /></a> <a href="https://www.postgresql.org/"><img src="assets/stack/postgresql.svg" height="28" alt="PostgreSQL" /></a> <a href="https://redis.io/"><img src="assets/stack/redis.svg" height="28" alt="Redis" /></a><br><br>Modelagem de dados · Stored procedures · Triggers · Otimização de consultas · Performance |
+| 🛍️ **E-commerce e CMS** | <a href="https://www.shopify.com/"><img src="assets/stack/shopify.svg" height="28" alt="Shopify" /></a> <a href="https://business.adobe.com/products/magento/magento-commerce.html"><img src="assets/stack/magento.svg" height="28" alt="Magento" /></a> <a href="https://woocommerce.com/"><img src="assets/stack/woocommerce.svg" height="28" alt="WooCommerce" /></a> <a href="https://prestashop.com/"><img src="assets/stack/prestashop.svg" height="28" alt="PrestaShop" /></a><br><a href="https://saleor.io/"><img src="assets/stack/saleor.svg" height="28" alt="Saleor" /></a> <a href="https://wordpress.org/"><img src="assets/stack/wordpress.svg" height="28" alt="WordPress" /></a><br><br>Desenvolvimento de plugins · Integrações customizadas |
+| ☁️ **Infraestrutura e DevOps** | <a href="https://www.docker.com/"><img src="assets/stack/docker.svg" height="28" alt="Docker" /></a> <a href="https://www.linux.org/"><img src="assets/stack/linux.svg" height="28" alt="Linux" /></a> <a href="https://aws.amazon.com/s3/"><img src="assets/stack/amazons3.svg" height="28" alt="AWS S3" /></a> <a href="https://git-scm.com/"><img src="assets/stack/git.svg" height="28" alt="Git" /></a> <a href="https://github.com/"><img src="assets/stack/github.svg" height="28" alt="GitHub" /></a><br><a href="https://bitbucket.org/"><img src="assets/stack/bitbucket.svg" height="28" alt="Bitbucket" /></a> <a href="https://cpanel.net/"><img src="assets/stack/cpanel.svg" height="28" alt="cPanel" /></a><br><br>VPS · Git Flow · CI/CD · Ambientes de produção |
+| 🔍 **Qualidade e processos** | <a href="https://www.atlassian.com/software/jira"><img src="assets/stack/jira.svg" height="28" alt="Jira" /></a><br><br>Code Review · Pull Requests · Kanban · Debugging · Análise de performance · Observabilidade · Sustentação de aplicações |
+| 🤖 **IA e automação**<br><sub>Em prática e estudo</sub> | <a href="https://www.python.org/"><img src="assets/stack/python.svg" height="28" alt="Python" /></a> <a href="https://www.langchain.com/"><img src="assets/stack/langchain.svg" height="28" alt="LangChain" /></a> <a href="https://openai.com/"><img src="assets/stack/openai.svg" height="28" alt="OpenAI API" /></a> <a href="https://ffmpeg.org/"><img src="assets/stack/ffmpeg.svg" height="28" alt="FFmpeg" /></a><br><br>LLMs · RAG · Embeddings · Bancos vetoriais · Agentes · Automação de processos · Integração de IA em aplicações |
 
 </details>

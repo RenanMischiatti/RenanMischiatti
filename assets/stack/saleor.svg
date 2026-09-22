@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="34" viewBox="0 0 92 34" role="img" aria-labelledby="title">
+  <title id="title">Saleor</title>
+  <metadata>Logo: https://saleor.io/favicon-32x32-dark.png</metadata>
+  <rect x=".5" y=".5" width="91" height="33" rx="7" fill="#161B22" stroke="#30363D"/>
+  <image x="10" y="7" width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACbUlEQVR4Ab3XA5DdYBiF4dWY5dq7tW2O7dq2bdseVsNiPLU7Rm3bXCun7792cnN7k5lnvd85cRLkZGkYFReG5piO03iKNBQU+4snOIkpaIJQ+8nOgrvgEF4jH7KRh5fYh44IdRseja34Brn0BesR4Wt4Z9yEBfnJwhW0cxreH0+h/+whetmFd3Ee7soDtKttn9+AAuwSwiuGR8eF8sMtkEfWILj82nfFV8gjH9G+/Nofgjy2MzyarVB8hXsFeewpUk2B6ciDatMgMlZ1G0a5Vi88uvLMXIw1BU47CU9MaaIx4yZq5px5mjF7rk9mzZ2vYSNHKzYxpfLs46bAU5tw/jFVe/cfVF5entwsP3/+1OSpMxQeHV95/h1TIK228Oj4ZG3fuVu5ubmuwn//+aOZs+fVtILfTIGCmsKj4pK0YdMWZWdnuwpPS0vT/IVLzJqbeZUzjKzKBUrDI2IStGrNOmVmZrkKz8jI0NIVq8ycmsKNTFPgb+Vw03jJshVKZ4ibJSsrS2vWbVBkbGJt4cZXU+AJVMI0njNvof78/SuzWJblE7O7Nm3ZZnafXbhx2xQ4CZUwR/zAIcM1ccp0TZg01ScTJ0/T4GEjFMcMB+HGEVNgSuULERcNfy44TsNzMMoUaIqXkMceI5mbUXxI8QOkPLat/O24Ez5DHnmH1iX5JVthPeQBC8vDo+KDKz+SReAKFGBn0aCm58L2eAgFyB20tHsy7oWHAQrv4vTdoB0uw4L8VIBzldbcUYlwrMEnyKX3WI76bt8PQ9EOu/AMuQ6vcE+wDa0RYhPjuEgKxuI47uIbMot9w20cxSgkOQ3+B5Z8RxpR14jNAAAAAElFTkSuQmCC"/>
+  <text x="38" y="17" dy=".35em" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Saleor</text>
+</svg>
