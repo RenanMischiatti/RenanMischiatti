@@ -5,9 +5,9 @@
 
 **Software Engineer · Backend & Full Stack**
 
-<p><strong><big>Salve! 👋</big></strong> Sou desenvolvedor há mais de 4 anos e sou apaixonado no que faço. Estou sempre aprendendo e buscando melhorar, tanto no trabalho quanto na vida.</p>
+<p><strong><big>Salve! </big></strong> Sou desenvolvedor há mais de 4 anos e sou apaixonado no que faço. Sempre aprendendo e buscando melhorar, tanto no trabalho quanto na vida.</p>
 
-Minha especialidade é **PHP e Laravel**, mas também trabalho com front-end, IA, integrações e automações. Já passei por projetos de vários tamanhos, de APIs a ERPs e e-commerces. No fim das contas, gosto mesmo é de entender o problema e construir uma solução inteligente.
+Especialidade em **PHP e Laravel**, mas também trabalho com front-end, IA, integrações e automações. Já passei por projetos de vários tamanhos, de APIs a ERPs e e-commerces. No fim das contas, gosto mesmo é de entender o problema e construir uma solução inteligente.
 
 <p align="left">
   <a href="https://renanmischiatti.space">
@@ -32,7 +32,7 @@ Minha especialidade é **PHP e Laravel**, mas também trabalho com front-end, IA
 </a>
 
 - 📍 São José dos Campos, São Paulo
-- 💬 Gosto de uma boa troca de ideias e de aprender com quem está por perto
+- 💬 Gosto de trocar ideias e de aprender com quem está por perto
 - 🏋️ Gymrat
 - 🌎 Português nativo · Inglês avançado
 
