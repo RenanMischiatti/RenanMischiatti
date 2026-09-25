@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="32" viewBox="0 0 88 32" role="img" aria-labelledby="title">
+  <title id="title">English</title>
+  <rect x=".5" y=".5" width="87" height="31" rx="7" fill="#161B22" stroke="#30363D"/>
+  <svg x="12" y="8" width="23" height="16" viewBox="0 0 60 30"><clipPath id="a"><path d="M0 0v30h60V0z"/></clipPath><clipPath id="b"><path d="M30 15h30v15zv15H0zH0V0zV0h30z"/></clipPath><g clip-path="url(#a)"><path d="M0 0v30h60V0z" fill="#012169"/><path d="m0 0 60 30m0-30L0 30" stroke="#fff" stroke-width="6"/><path d="m0 0 60 30m0-30L0 30" clip-path="url(#b)" stroke="#C8102E" stroke-width="4"/><path d="M30 0v30M0 15h60" stroke="#fff" stroke-width="10"/><path d="M30 0v30M0 15h60" stroke="#C8102E" stroke-width="6"/></g></svg>
+  <text x="47" y="16" dy=".35em" fill="#AAB4C0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">EN</text>
+</svg>
